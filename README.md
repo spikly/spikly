@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![PHP](https://spik.ly/github/php-number-one.jpeg "PHP")
+
 <!--
 **spikly/spikly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
